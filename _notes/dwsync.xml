@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="192.168.56.101//var/www/html/" local="133087661329746537" remote="133087661340000000" Dst="2" />
+<file name="index.php" server="192.168.56.102//var/www/html/" local="133087687143784092" remote="133093703310000000" Dst="2" />
+<file name="info.php" server="192.168.56.102//var/www/html/" local="133089397282139013" remote="133093703320000000" Dst="2" />
+<file name="upload.php" server="192.168.56.102//var/www/html/" local="133119017424714935" remote="133119025110000000" Dst="2" />
+<file name="upload-new.php" server="192.168.56.102//var/www/html/" local="133119005446819355" remote="133119005460000000" Dst="2" />
+<file name="index.nginx-debian.html" server="192.168.56.102//var/www/html/" local="133088886670000000" remote="133088886670000000" Dst="2" />
+<file name="functions.php" server="192.168.56.102//var/www/html/" local="133119025177200656" remote="133142261920000000" Dst="1" />
+<file name="search.php" server="192.168.56.102//var/www/html/" local="133118976965551741" remote="133118977520000000" Dst="2" />
+<file name="vieww.php" server="192.168.56.102//var/www/html/" local="133118967312367714" remote="133118967760000000" Dst="2" />
+<file name="view.php" server="192.168.56.102//var/www/html/" local="133119974030302568" remote="133119974050000000" Dst="2" />
+<file name="api_create_close.php" server="192.168.56.102//var/www/html/" local="133129276228452731" remote="133129277230000000" Dst="1" />
+<file name="api_create_query_receive.php" server="192.168.56.102//var/www/html/" local="133142335364825773" remote="133142335580000000" Dst="1" />
+<file name="untitled.php" server="192.168.56.102//var/www/html/" local="133142210635111126" remote="133142210640000000" Dst="1" />
+<file name="loanCountAvg.php" server="192.168.56.102//var/www/html/" local="133144284654471486" remote="133144286170000000" Dst="1" />
+<file name="loansComplete.php" server="192.168.56.102//var/www/html/" local="133144294389193781" remote="133144294390000000" Dst="1" />
+<file name="uniqueloans.php" server="192.168.56.102//var/www/html/" local="133144220196477882" remote="133144295250000000" Dst="1" />
+<file name="loanSizes.php" server="192.168.56.102//var/www/html/" local="133144220600103552" remote="133144295850000000" Dst="1" />
+</dwsync>
